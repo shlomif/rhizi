@@ -37,10 +37,7 @@ Build dependencies:
 
 # Installation
 ## Apt based systems: Debian / Ubuntu
-<code># apt-get install \
-ant \
-python-pip \
-ruby-sass
+<code># apt-get install ant python-pip ruby-sass
 </code>
 
 ## Generic
